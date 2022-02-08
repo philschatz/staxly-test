@@ -1,4 +1,4 @@
-Test a release update
+Test another release update
 
 # Block.class
 
