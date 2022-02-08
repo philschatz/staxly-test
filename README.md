@@ -1,4 +1,4 @@
-Test a push
+Test a release update
 
 # Block.class
 
@@ -198,14 +198,14 @@ data-count=[Number.datatype](#numberdatatype)?[br](#br)*
 
 1.  [id.attrib.required](#idattribrequired)
 2.  `<div data-type="title">`
-    
+
     1.  [id.attrib](#idattrib)
     2.  [Inline.model](#inlinemodel)
-    
+
     `</div>`
 
 3.  One of the following:
-    
+
     * [ul](#ul)
     * [ol](#ol)
     * [Content.DivList](#contentdivlist)
@@ -416,8 +416,8 @@ data-type="list" data-mark-suffix=[Text.datatype](#textdatatype)?
 data-item-sep=[Text.datatype](#textdatatype)?
 One of the following:
 
-* 
-* 
+*
+*
 
 [Content.Note.attrs](#contentnoteattrs)
 # u
